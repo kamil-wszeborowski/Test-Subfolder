@@ -1,0 +1,2 @@
+rootProject.name='JAVA-TEST-SUB'
+include ':app'
